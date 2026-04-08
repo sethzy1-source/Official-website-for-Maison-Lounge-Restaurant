@@ -16,7 +16,7 @@
 <body>
 
 <header>
-  <h1>Your Restaurant Name</h1>
+  <h1>MAISON LOUNGE RESTAURANT</h1>
   <p>Delicious meals, unforgettable taste</p>
 </header>
 
@@ -45,9 +45,9 @@
 </section>
 
 <footer>
-  <p>© 2026 Your Restaurant Name</p>
+  <p>© 2026 MAISON LOUNGE RESTAURANT</p>
 </footer>
 
 </body>
 </html>
-Add restaurant website code
+We are located at Dunkwa-Ayanfuri (opposite the community center)
