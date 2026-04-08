@@ -1,4 +1,5 @@
-# Official-website-for-Maison-Lounge-Restaurant<!DOCTYPE html>
+MAISON LOUNGE RESTAURANT
+Location (Ayanfuri, Opposite the community Center)
 <html>
 <head>
   <title>Your Restaurant Name</title>
@@ -50,4 +51,4 @@
 
 </body>
 </html>
-We are located at Dunkwa-Ayanfuri (opposite the community center)
+We are located at Ayanfuri (opposite the community center)
