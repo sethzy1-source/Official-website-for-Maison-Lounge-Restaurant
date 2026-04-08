@@ -41,7 +41,7 @@
 
 <section>
   <h2>Contact</h2>
-  <p>Phone: +233 XXX XXX XXX</p>
+  <p>Phone: +233 597579759</p>
 </section>
 
 <footer>
@@ -50,3 +50,4 @@
 
 </body>
 </html>
+Add restaurant website code
